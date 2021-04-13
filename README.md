@@ -7,7 +7,7 @@ Godot all in one ads module for Android. (Customizable)
 [![PATREON](https://img.shields.io/badge/Patreon-support-yellow.svg)](https://www.patreon.com/bePatron?u=5130479)
 
 # Tip
-If you are using goodt 2.X copy `build.gradle.template` and `AndroidManifest.xml.template` from godot 3.1 (master branch) into `$(GODOT_2_ROOT)/platform/android/`,
+If you are using godot 2.X copy `build.gradle.template` and `AndroidManifest.xml.template` from godot 3.1 (master branch) into `$(GODOT_2_ROOT)/platform/android/`,
 
 # Cloning
 ```
